@@ -1,0 +1,18 @@
+{
+    "file_paths": {
+      "cursor": "./sample_data/cursor_data.csv",
+      "keystroke": "./sample_data/keystroke_data.csv",
+      "web_app": "./sample_data/web_app_data.csv",
+      "printing": "./sample_data/printing_data.csv",
+      "time_tracking": "./sample_data/time_tracking_data.csv"
+    },
+    "model_save_path": "./hrms_sentiment_model",
+    "training_args": {
+      "num_train_epochs": 3,
+      "per_device_train_batch_size": 16,
+      "per_device_eval_batch_size": 64,
+      "warmup_steps": 500,
+      "weight_decay": 0.01,
+      "logging_steps": 10
+    }
+  }

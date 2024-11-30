@@ -55,14 +55,18 @@ def load_real_data(file_paths):
     return data
 
 def preprocess_data(data):
-    # Convert timestamps to datetime
     for key in data:
+        # Check if 'timestamp' column exists
         if 'timestamp' in data[key].columns:
-            data[key]['timestamp'] = pd.to_datetime(data[key]['timestamp'])
-    
-    # Sort data by timestamp
-    for key in data:
-        data[key] = data[key].sort_values('timestamp')
+            try:
+                # Convert to datetime
+                data[key]['timestamp'] = pd.to_datetime(data[key]['timestamp'])
+                # Sort by timestamp
+                data[key] = data[key].sort_values('timestamp')
+            except Exception as e:
+                print(f"Could not process timestamp for {key}: {e}")
+        else:
+            print(f"No timestamp column found in {key} dataset")
     
     return data
 
@@ -119,6 +123,50 @@ def analyze_activity(data):
         analysis['total_tracked_time'] = total_tracked_time
         analysis['most_time_spent'] = most_time_spent
     
+    if 'attendance' in data:
+        attendance_df = data['attendance']
+        total_employees = attendance_df['employee_id'].nunique()
+        attendance_summary = attendance_df['attendance_status'].value_counts(normalize=True)
+        
+        analysis['total_employees'] = total_employees
+        analysis['attendance_distribution'] = attendance_summary.to_dict()
+        analysis['avg_working_hours'] = attendance_df[attendance_df['is_present']]['total_hours'].mean()
+    
+    # New: Peak Productivity Analysis
+    if 'productivity' in data:
+        productivity_df = data['productivity']
+        peak_hours = productivity_df.groupby('hour_of_day').agg({
+            'productivity_score': ['mean', 'count']
+        }).reset_index()
+        peak_hours.columns = ['hour', 'avg_productivity', 'activity_count']
+        
+        # Most productive activities
+        activity_productivity = productivity_df.groupby('activity').agg({
+            'productivity_score': ['mean', 'count']
+        }).reset_index()
+        activity_productivity.columns = ['activity', 'avg_productivity', 'activity_count']
+        
+        analysis['peak_hours'] = peak_hours.sort_values('avg_productivity', ascending=False).to_dict('records')
+        analysis['activity_productivity'] = activity_productivity.sort_values('avg_productivity', ascending=False).to_dict('records')
+    
+    # New: Active User Insights Analysis
+    if 'active_user' in data:
+        active_user_df = data['active_user']
+        
+        analysis['total_active_sessions'] = len(active_user_df)
+        analysis['avg_session_time'] = active_user_df['total_session_time'].mean()
+        analysis['avg_active_time'] = active_user_df['active_time'].mean()
+        analysis['avg_idle_time'] = active_user_df['idle_time'].mean()
+        analysis['active_time_percentage'] = active_user_df['active_percentage'].mean()
+        
+        # Breakdown by ideal time category
+        ideal_time_breakdown = active_user_df['ideal_time_category'].value_counts(normalize=True)
+        analysis['ideal_time_breakdown'] = ideal_time_breakdown.to_dict()
+        
+        # Device usage
+        device_usage = active_user_df['devices_used'].str.split(', ', expand=True).stack().value_counts(normalize=True)
+        analysis['device_usage'] = device_usage.to_dict()
+    
     return analysis
 
 def generate_report(analysis_results):
@@ -152,7 +200,41 @@ def generate_report(analysis_results):
         report += f"   - Total tracked time: {timedelta(seconds=total_tracked_time)}\n"
         report += f"   - Activity with most time spent: {analysis_results['most_time_spent']}\n\n"
     
-    report += "Analysis:\n"
+    if 'total_employees' in analysis_results:
+        report += "6. Attendance Management:\n"
+        report += f"   - Total Employees Tracked: {analysis_results['total_employees']}\n"
+        report += "   - Attendance Distribution:\n"
+        for status, percentage in analysis_results['attendance_distribution'].items():
+            report += f"     * {status}: {percentage:.2%}\n"
+        report += f"   - Average Working Hours: {analysis_results['avg_working_hours']:.2f}\n\n"
+    
+    if 'peak_hours' in analysis_results:
+        report += "7. Productivity Insights:\n"
+        report += "   - Peak Productive Hours:\n"
+        for hour_data in analysis_results['peak_hours'][:3]:
+            report += f"     * Hour {hour_data['hour']}: Avg Productivity {hour_data['avg_productivity']:.2f}\n"
+        
+        report += "   - Most Productive Activities:\n"
+        for activity_data in analysis_results['activity_productivity'][:3]:
+            report += f"     * {activity_data['activity']}: Avg Productivity {activity_data['avg_productivity']:.2f}\n\n"
+    
+    if 'total_active_sessions' in analysis_results:
+        report += "8. Active User Insights:\n"
+        report += f"   - Total Active Sessions: {analysis_results['total_active_sessions']}\n"
+        report += f"   - Average Session Time: {timedelta(seconds=int(analysis_results['avg_session_time']))}\n"
+        report += f"   - Average Active Time: {timedelta(seconds=int(analysis_results['avg_active_time']))}\n"
+        report += f"   - Average Idle Time: {timedelta(seconds=int(analysis_results['avg_idle_time']))}\n"
+        report += f"   - Active Time Percentage: {analysis_results['active_time_percentage']:.2f}%\n\n"
+        
+        report += "   - Working Time Category Breakdown:\n"
+        for category, percentage in analysis_results['ideal_time_breakdown'].items():
+            report += f"     * {category}: {percentage:.2%}\n"
+        
+        report += "   - Device Usage:\n"
+        for device, usage in analysis_results['device_usage'].items():
+            report += f"     * {device}: {usage:.2%}\n"
+    
+    return report
     # Add your analysis logic here based on the results
     
     return report
@@ -231,7 +313,10 @@ if __name__ == "__main__":
         'keystroke': './sample_data/keystroke_data.csv',
         'web_app': './sample_data/web_app_data.csv',
         'printing': './sample_data/printing_data.csv', 
-        'time_tracking': './sample_data/time_tracking_data.csv'
+        'time_tracking': './sample_data/time_tracking_data.csv',
+        'attendance': './sample_data/attendance_data.csv',
+        'productivity': './sample_data/peak_productivity_data.csv',
+        'active_user': './sample_data/active_user_data.csv'
     }
     # raw_data = load_real_data(file_paths)
     raw_data = load_real_data(config['file_paths'])

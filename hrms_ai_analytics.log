@@ -1,0 +1,5 @@
+2024-12-05 12:59:32,223 - root - INFO - Comprehensive Narrative Generated:
+1. Overview of data sources 2. Significant findings 3. Patterns across files 4. Potential implications 5. Recommendations
+2024-12-05 13:16:58,746 - root - INFO - Feedback data saved to ./sample_data\continuous_learning\feedback_20241205_131658.json
+2024-12-05 13:16:58,761 - root - ERROR - Critical error in HRMS AI analysis: 'EnhancedHRMSAnalyticsGenerator' object has no attribute '_convert_feedback_to_training_data'
+2024-12-05 13:43:09,816 - root - ERROR - An error occurred during analytics generation: Object of type int64 is not JSON serializable

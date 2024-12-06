@@ -1,0 +1,1 @@
+{"error":"With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.","_timestamp":1.7334833926737258e+09,"_runtime":0.6450013,"_step":0,"_wandb":{"runtime":0}}

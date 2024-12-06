@@ -1,0 +1,588 @@
+{
+  "files_analyzed": [
+    {
+      "filename": "cursor",
+      "num_rows": 1000,
+      "columns": [
+        "x",
+        "y",
+        "click",
+        "timestamp",
+        "source_file"
+      ]
+    },
+    {
+      "filename": "keystroke",
+      "num_rows": 500,
+      "columns": [
+        "timestamp",
+        "key",
+        "duration",
+        "source_file"
+      ]
+    },
+    {
+      "filename": "web_app",
+      "num_rows": 100,
+      "columns": [
+        "timestamp",
+        "app",
+        "website",
+        "duration",
+        "source_file"
+      ]
+    },
+    {
+      "filename": "printing",
+      "num_rows": 20,
+      "columns": [
+        "timestamp",
+        "document_type",
+        "pages",
+        "color",
+        "source_file"
+      ]
+    },
+    {
+      "filename": "time_tracking",
+      "num_rows": 1000,
+      "columns": [
+        "activity",
+        "duration",
+        "timestamp",
+        "source_file"
+      ]
+    },
+    {
+      "filename": "attendance",
+      "num_rows": 600,
+      "columns": [
+        "employee_id",
+        "date",
+        "is_present",
+        "check_in",
+        "check_out",
+        "total_hours",
+        "attendance_status",
+        "source_file"
+      ]
+    },
+    {
+      "filename": "productivity",
+      "num_rows": 1000,
+      "columns": [
+        "hour_of_day",
+        "activity",
+        "productivity_score",
+        "source_file"
+      ]
+    },
+    {
+      "filename": "active_user",
+      "num_rows": 500,
+      "columns": [
+        "employee_id",
+        "timestamp",
+        "total_session_time",
+        "active_time",
+        "idle_time",
+        "active_percentage",
+        "devices_used",
+        "application_switches",
+        "task_completion_rate",
+        "ideal_time_category",
+        "source_file"
+      ]
+    }
+  ],
+  "column_insights": {
+    "cursor_x": {
+      "mean": 967.272,
+      "median": 969.5,
+      "min": 0.0,
+      "max": 1918.0,
+      "std_dev": 556.6129445009216,
+      "unique_values": 766,
+      "distribution_percentiles": {
+        "25%": 484.0,
+        "50%": 969.5,
+        "75%": 1441.25
+      }
+    },
+    "cursor_y": {
+      "mean": 537.244,
+      "median": 530.0,
+      "min": 0.0,
+      "max": 1079.0,
+      "std_dev": 310.05977412029364,
+      "unique_values": 643,
+      "distribution_percentiles": {
+        "25%": 274.75,
+        "50%": 530.0,
+        "75%": 807.0
+      }
+    },
+    "cursor_click": {
+      "mean": 0.496,
+      "median": 0.0,
+      "min": 0.0,
+      "max": 1.0,
+      "std_dev": 0.5002341793942455,
+      "unique_values": 2,
+      "distribution_percentiles": {
+        "25%": 0.0,
+        "50%": 0.0,
+        "75%": 1.0
+      }
+    },
+    "cursor_timestamp": {
+      "total_entries": 1000,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.8402588632702828,
+      "sentiment_distribution": {
+        "positive": 1000,
+        "negative": 0
+      }
+    },
+    "cursor_source_file": {
+      "total_entries": 1000,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.9846270680427551,
+      "sentiment_distribution": {
+        "positive": 1000,
+        "negative": 0
+      }
+    },
+    "keystroke_timestamp": {
+      "total_entries": 500,
+      "positive_sentiment_ratio": 0.978,
+      "avg_sentiment_confidence": 0.6610001899003982,
+      "sentiment_distribution": {
+        "positive": 489,
+        "negative": 11
+      }
+    },
+    "keystroke_key": {
+      "total_entries": 500,
+      "positive_sentiment_ratio": 0.884,
+      "avg_sentiment_confidence": 0.9062437869310379,
+      "sentiment_distribution": {
+        "positive": 442,
+        "negative": 58
+      }
+    },
+    "keystroke_duration": {
+      "mean": 0.12656260277350664,
+      "median": 0.12805840310455402,
+      "min": 0.0501294188673497,
+      "max": 0.1997649331418829,
+      "std_dev": 0.04386446367713508,
+      "unique_values": 500,
+      "distribution_percentiles": {
+        "25%": 0.09133608989967004,
+        "50%": 0.12805840310455402,
+        "75%": 0.16190031174877043
+      }
+    },
+    "keystroke_source_file": {
+      "total_entries": 500,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.7738626003265381,
+      "sentiment_distribution": {
+        "positive": 500,
+        "negative": 0
+      }
+    },
+    "web_app_timestamp": {
+      "total_entries": 100,
+      "positive_sentiment_ratio": 0.46,
+      "avg_sentiment_confidence": 0.5852931022644043,
+      "sentiment_distribution": {
+        "positive": 46,
+        "negative": 54
+      }
+    },
+    "web_app_app": {
+      "total_entries": 100,
+      "positive_sentiment_ratio": 0.79,
+      "avg_sentiment_confidence": 0.8703100490570068,
+      "sentiment_distribution": {
+        "positive": 79,
+        "negative": 21
+      }
+    },
+    "web_app_website": {
+      "total_entries": 90,
+      "positive_sentiment_ratio": 0.6444444444444445,
+      "avg_sentiment_confidence": 0.915672418806288,
+      "sentiment_distribution": {
+        "positive": 58,
+        "negative": 32
+      }
+    },
+    "web_app_duration": {
+      "mean": 1874.27,
+      "median": 1715.0,
+      "min": 77.0,
+      "max": 3580.0,
+      "std_dev": 1027.0696066327182,
+      "unique_values": 99,
+      "distribution_percentiles": {
+        "25%": 1103.0,
+        "50%": 1715.0,
+        "75%": 2889.25
+      }
+    },
+    "web_app_source_file": {
+      "total_entries": 100,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.9076756834983826,
+      "sentiment_distribution": {
+        "positive": 100,
+        "negative": 0
+      }
+    },
+    "printing_timestamp": {
+      "total_entries": 20,
+      "positive_sentiment_ratio": 0.0,
+      "avg_sentiment_confidence": 0.6559325397014618,
+      "sentiment_distribution": {
+        "positive": 0,
+        "negative": 20
+      }
+    },
+    "printing_document_type": {
+      "total_entries": 20,
+      "positive_sentiment_ratio": 0.7,
+      "avg_sentiment_confidence": 0.8908915877342224,
+      "sentiment_distribution": {
+        "positive": 14,
+        "negative": 6
+      }
+    },
+    "printing_pages": {
+      "mean": 9.9,
+      "median": 9.5,
+      "min": 1.0,
+      "max": 20.0,
+      "std_dev": 6.146458115729827,
+      "unique_values": 14,
+      "distribution_percentiles": {
+        "25%": 5.0,
+        "50%": 9.5,
+        "75%": 13.0
+      }
+    },
+    "printing_color": {
+      "mean": 0.75,
+      "median": 1.0,
+      "min": 0.0,
+      "max": 1.0,
+      "std_dev": 0.4442616583193193,
+      "unique_values": 2,
+      "distribution_percentiles": {
+        "25%": 0.75,
+        "50%": 1.0,
+        "75%": 1.0
+      }
+    },
+    "printing_source_file": {
+      "total_entries": 20,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.9531176686286926,
+      "sentiment_distribution": {
+        "positive": 20,
+        "negative": 0
+      }
+    },
+    "time_tracking_activity": {
+      "total_entries": 1000,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.9192888079285622,
+      "sentiment_distribution": {
+        "positive": 1000,
+        "negative": 0
+      }
+    },
+    "time_tracking_duration": {
+      "mean": 3724.00995783454,
+      "median": 3689.5508619630045,
+      "min": 320.57895516916074,
+      "max": 7191.411445865825,
+      "std_dev": 2012.8127078279429,
+      "unique_values": 1000,
+      "distribution_percentiles": {
+        "25%": 1978.394498900065,
+        "50%": 3689.5508619630045,
+        "75%": 5529.826538514133
+      }
+    },
+    "time_tracking_timestamp": {
+      "total_entries": 1000,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.8402588632702828,
+      "sentiment_distribution": {
+        "positive": 1000,
+        "negative": 0
+      }
+    },
+    "time_tracking_source_file": {
+      "total_entries": 1000,
+      "positive_sentiment_ratio": 0.0,
+      "avg_sentiment_confidence": 0.7869799137115479,
+      "sentiment_distribution": {
+        "positive": 0,
+        "negative": 1000
+      }
+    },
+    "attendance_employee_id": {
+      "total_entries": 600,
+      "positive_sentiment_ratio": 0.0,
+      "avg_sentiment_confidence": 0.8067251861095428,
+      "sentiment_distribution": {
+        "positive": 0,
+        "negative": 600
+      }
+    },
+    "attendance_date": {
+      "total_entries": 600,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.993563324213028,
+      "sentiment_distribution": {
+        "positive": 600,
+        "negative": 0
+      }
+    },
+    "attendance_is_present": {
+      "mean": 0.9016666666666666,
+      "median": 1.0,
+      "min": 0.0,
+      "max": 1.0,
+      "std_dev": 0.29801326939715883,
+      "unique_values": 2,
+      "distribution_percentiles": {
+        "25%": 1.0,
+        "50%": 1.0,
+        "75%": 1.0
+      }
+    },
+    "attendance_check_in": {
+      "total_entries": 541,
+      "positive_sentiment_ratio": 0.0036968576709796672,
+      "avg_sentiment_confidence": 0.6892911559332321,
+      "sentiment_distribution": {
+        "positive": 2,
+        "negative": 539
+      }
+    },
+    "attendance_check_out": {
+      "total_entries": 541,
+      "positive_sentiment_ratio": 0.025878003696857672,
+      "avg_sentiment_confidence": 0.6387568216447248,
+      "sentiment_distribution": {
+        "positive": 14,
+        "negative": 527
+      }
+    },
+    "attendance_total_hours": {
+      "mean": 7.205,
+      "median": 8.0,
+      "min": 0.0,
+      "max": 9.0,
+      "std_dev": 2.5026813667289503,
+      "unique_values": 4,
+      "distribution_percentiles": {
+        "25%": 7.0,
+        "50%": 8.0,
+        "75%": 9.0
+      }
+    },
+    "attendance_attendance_status": {
+      "total_entries": 600,
+      "positive_sentiment_ratio": 0.6016666666666667,
+      "avg_sentiment_confidence": 0.9990194888909658,
+      "sentiment_distribution": {
+        "positive": 361,
+        "negative": 239
+      }
+    },
+    "attendance_source_file": {
+      "total_entries": 600,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.9986140727996826,
+      "sentiment_distribution": {
+        "positive": 600,
+        "negative": 0
+      }
+    },
+    "productivity_hour_of_day": {
+      "mean": 11.611,
+      "median": 12.0,
+      "min": 0.0,
+      "max": 23.0,
+      "std_dev": 6.804555898879881,
+      "unique_values": 24,
+      "distribution_percentiles": {
+        "25%": 6.0,
+        "50%": 12.0,
+        "75%": 17.0
+      }
+    },
+    "productivity_activity": {
+      "total_entries": 1000,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.9767168632745743,
+      "sentiment_distribution": {
+        "positive": 1000,
+        "negative": 0
+      }
+    },
+    "productivity_productivity_score": {
+      "mean": 0.7468022654768595,
+      "median": 0.7390029664308102,
+      "min": 0.5002639768731618,
+      "max": 0.9999774425324308,
+      "std_dev": 0.14618484604482293,
+      "unique_values": 1000,
+      "distribution_percentiles": {
+        "25%": 0.6176966882410468,
+        "50%": 0.7390029664308102,
+        "75%": 0.8733763778090927
+      }
+    },
+    "productivity_source_file": {
+      "total_entries": 1000,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.9996492862701416,
+      "sentiment_distribution": {
+        "positive": 1000,
+        "negative": 0
+      }
+    },
+    "active_user_employee_id": {
+      "total_entries": 500,
+      "positive_sentiment_ratio": 0.0,
+      "avg_sentiment_confidence": 0.8116219960451126,
+      "sentiment_distribution": {
+        "positive": 0,
+        "negative": 500
+      }
+    },
+    "active_user_timestamp": {
+      "total_entries": 500,
+      "positive_sentiment_ratio": 0.084,
+      "avg_sentiment_confidence": 0.6343720421791077,
+      "sentiment_distribution": {
+        "positive": 42,
+        "negative": 458
+      }
+    },
+    "active_user_total_session_time": {
+      "mean": 248.498,
+      "median": 246.5,
+      "min": 15.0,
+      "max": 479.0,
+      "std_dev": 133.73388313736348,
+      "unique_values": 306,
+      "distribution_percentiles": {
+        "25%": 126.5,
+        "50%": 246.5,
+        "75%": 362.25
+      }
+    },
+    "active_user_active_time": {
+      "mean": 196.964,
+      "median": 195.5,
+      "min": 10.0,
+      "max": 460.0,
+      "std_dev": 110.61617685113839,
+      "unique_values": 284,
+      "distribution_percentiles": {
+        "25%": 100.75,
+        "50%": 195.5,
+        "75%": 278.0
+      }
+    },
+    "active_user_idle_time": {
+      "mean": 51.534,
+      "median": 37.0,
+      "min": 1.0,
+      "max": 180.0,
+      "std_dev": 43.73568868704207,
+      "unique_values": 147,
+      "distribution_percentiles": {
+        "25%": 15.0,
+        "50%": 37.0,
+        "75%": 79.0
+      }
+    },
+    "active_user_active_percentage": {
+      "mean": 79.1636635440496,
+      "median": 78.53711503027112,
+      "min": 57.14285714285714,
+      "max": 99.75490196078432,
+      "std_dev": 11.612033779439873,
+      "unique_values": 475,
+      "distribution_percentiles": {
+        "25%": 69.24567680381634,
+        "50%": 78.53711503027112,
+        "75%": 89.77852504638219
+      }
+    },
+    "active_user_devices_used": {
+      "total_entries": 500,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.8665600051879883,
+      "sentiment_distribution": {
+        "positive": 500,
+        "negative": 0
+      }
+    },
+    "active_user_application_switches": {
+      "mean": 10.144,
+      "median": 10.0,
+      "min": 1.0,
+      "max": 19.0,
+      "std_dev": 5.384538095417471,
+      "unique_values": 19,
+      "distribution_percentiles": {
+        "25%": 6.0,
+        "50%": 10.0,
+        "75%": 15.0
+      }
+    },
+    "active_user_task_completion_rate": {
+      "mean": 0.7544152371743406,
+      "median": 0.7594179170938629,
+      "min": 0.5000774384328153,
+      "max": 0.9993725819018792,
+      "std_dev": 0.14350754512943828,
+      "unique_values": 500,
+      "distribution_percentiles": {
+        "25%": 0.6335552627936082,
+        "50%": 0.7594179170938629,
+        "75%": 0.8787228376731661
+      }
+    },
+    "active_user_ideal_time_category": {
+      "total_entries": 500,
+      "positive_sentiment_ratio": 0.55,
+      "avg_sentiment_confidence": 0.9813474178314209,
+      "sentiment_distribution": {
+        "positive": 275,
+        "negative": 225
+      }
+    },
+    "active_user_source_file": {
+      "total_entries": 500,
+      "positive_sentiment_ratio": 1.0,
+      "avg_sentiment_confidence": 0.8710582256317139,
+      "sentiment_distribution": {
+        "positive": 500,
+        "negative": 0
+      }
+    }
+  },
+  "overall_insights": {},
+  "overall_narrative": "1. Overview of data sources 2. Significant findings 3. Patterns across files 4. Potential implications 5. Recommendations"
+}

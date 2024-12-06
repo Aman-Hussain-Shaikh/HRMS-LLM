@@ -1,0 +1,151 @@
+{
+  "Cursor Activity": {
+    "Average Cursor Speed": "787.38 pixels/second",
+    "Click Rate": "49.60%",
+    "Total Cursor Movements": 1000,
+    "Advanced Cursor Metrics": {
+      "Cursor Acceleration": NaN,
+      "Max Cursor Speed": 1914.7245232669895,
+      "Click Pattern Analysis": {
+        "Average Clicks per Minute": 29.759999999999998,
+        "Peak Click Periods": "To be implemented with more detailed data"
+      }
+    }
+  },
+  "Keystroke Activity": {
+    "Average Typing Speed": "7.90 keys/second",
+    "Average Key Press Duration": "126.56 ms",
+    "Total Keystrokes": 500
+  },
+  "Web and App Usage": {
+    "Total Usage Time": "52 days, 3:47:00",
+    "Most Used App": "Video Player",
+    "Most Visited Website": "google.com",
+    "Unique Apps Used": 5,
+    "Unique Websites Visited": 5
+  },
+  "Printing History": {
+    "Total Pages Printed": 198,
+    "Color Print Ratio": "75.00%",
+    "Unique Document Types": 4
+  },
+  "Time Tracking": {
+    "Total Tracked Time": "1034 days, 26:49:00",
+    "Most Time-Consuming Activity": "Email",
+    "Activity Time Breakdown": {
+      "Email": 1038323.8740001252,
+      "Deep Work": 946226.1984622809,
+      "Project Work": 881239.8453142511,
+      "Meetings": 858220.0400578826
+    },
+    "Detailed Activity Breakdown": {
+      "Deep Work": {
+        "Total Duration": "262 hours, 50 minutes, 26 seconds",
+        "Average Duration per Session": "1 hours, 2 minutes, 5 seconds",
+        "Number of Sessions": 254.0
+      },
+      "Email": {
+        "Total Duration": "288 hours, 25 minutes, 23 seconds",
+        "Average Duration per Session": "1 hours, 4 minutes, 5 seconds",
+        "Number of Sessions": 270.0
+      },
+      "Meetings": {
+        "Total Duration": "238 hours, 23 minutes, 40 seconds",
+        "Average Duration per Session": "1 hours, 1 minutes, 23 seconds",
+        "Number of Sessions": 233.0
+      },
+      "Project Work": {
+        "Total Duration": "244 hours, 47 minutes, 19 seconds",
+        "Average Duration per Session": "1 hours, 0 minutes, 26 seconds",
+        "Number of Sessions": 243.0
+      }
+    },
+    "Productivity Metrics": {
+      "Most Productive Activities": [
+        "Email",
+        "Deep Work",
+        "Project Work"
+      ],
+      "Least Productive Activities": [
+        "Meetings",
+        "Project Work",
+        "Deep Work"
+      ]
+    }
+  },
+  "Attendance Management": {
+    "Total Employees Tracked": 20,
+    "Attendance Distribution": {
+      "Regular": "60.17%",
+      "Partial": "30.00%",
+      "Absent": "9.83%"
+    },
+    "Average Working Hours": "7.21"
+  },
+  "Productivity Insights": {
+    "Peak Productive Hours": {
+      "5": 0.7947401631314147,
+      "18": 0.7904051365039273,
+      "7": 0.7879438338013972
+    },
+    "Most Productive Activities": {
+      "Writing": 0.7555016379606748,
+      "Analysis": 0.74794997789019,
+      "Design": 0.7458742556725346
+    },
+    "Extended Productivity Analysis": {
+      "Productivity Trend": "Gradually improving",
+      "Potential Improvement Areas": "Low productivity hours",
+      "Recommended Actions": [
+        "Optimize workflow during less productive hours",
+        "Implement focused work sessions",
+        "Analyze and mitigate productivity blockers"
+      ]
+    }
+  },
+  "Active User Insights": {
+    "Total Active Sessions": 500,
+    "Average Session Time": "0:04:08",
+    "Average Active Time": "0:03:16",
+    "Average Idle Time": "0:00:51",
+    "Active Time Percentage": "79.16%",
+    "Working Time Category Breakdown": {
+      "Non-Working Hours": 45.0,
+      "Core Working Hours": 29.599999999999998,
+      "Flexible Working Hours": 25.4
+    },
+    "Device Usage": {
+      "Desktop": 12.0,
+      "Laptop": 12.0,
+      "Tablet": 11.600000000000001,
+      "Mobile": 11.200000000000001,
+      "Mobile, Tablet": 6.2,
+      "Laptop, Desktop": 5.4,
+      "Laptop, Tablet": 5.4,
+      "Tablet, Laptop": 5.2,
+      "Tablet, Mobile": 5.2,
+      "Mobile, Laptop": 4.3999999999999995,
+      "Desktop, Tablet": 4.0,
+      "Laptop, Mobile": 4.0,
+      "Desktop, Laptop": 3.8,
+      "Desktop, Mobile": 3.8,
+      "Mobile, Desktop": 3.4000000000000004,
+      "Tablet, Desktop": 2.4
+    }
+  },
+  "Overall Narrative": "1. Overview of data sources 2. Significant findings 3. Patterns across files 4. Potential implications 5. Recommendations",
+  "Analysis Metadata": {
+    "Timestamp": "2024-12-06T16:59:34.647285",
+    "Files Analyzed": [
+      "cursor",
+      "keystroke",
+      "web_app",
+      "printing",
+      "time_tracking",
+      "attendance",
+      "productivity",
+      "active_user"
+    ],
+    "Total Data Sources": 46
+  }
+}

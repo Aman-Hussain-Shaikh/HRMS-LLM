@@ -10,6 +10,7 @@
     "active_user": "./sample_data/active_user_data.csv"
   },
   "model_save_path": "./hrms_sentiment_model",
+  "llm_model": "google/flan-t5-large",
   "training_args": {
     "num_train_epochs": 3,
     "per_device_train_batch_size": 16,

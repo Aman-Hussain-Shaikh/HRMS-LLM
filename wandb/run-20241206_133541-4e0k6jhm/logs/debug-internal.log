@@ -1,0 +1,17 @@
+{"time":"2024-12-06T13:35:41.0598863+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-06T13:35:41.0598863+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241206_133541-4e0k6jhm\\logs\\debug-core.log"}
+{"time":"2024-12-06T13:35:41.1824272+05:30","level":"INFO","msg":"created new stream","id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:41.1824272+05:30","level":"INFO","msg":"stream: started","id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:41.1824272+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:41.1824272+05:30","level":"INFO","msg":"handler: started","stream_id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:41.1824272+05:30","level":"INFO","msg":"sender: started","stream_id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:41.6704687+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T13:35:41.7348708+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T13:35:41.735377+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T13:35:42.742263+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.2095941},{"desc":"updating run config","runtime_seconds":0.2080618}],"total_operations":2}}
+{"time":"2024-12-06T13:35:43.8803273+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T13:35:45.3102967+05:30","level":"INFO","msg":"stream: closing","id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:45.3102967+05:30","level":"INFO","msg":"handler: closed","stream_id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:45.3102967+05:30","level":"INFO","msg":"sender: closed","stream_id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:45.3102967+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4e0k6jhm"}
+{"time":"2024-12-06T13:35:45.3102967+05:30","level":"INFO","msg":"stream: closed","id":"4e0k6jhm"}

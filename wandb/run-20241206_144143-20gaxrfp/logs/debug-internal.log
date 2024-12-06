@@ -1,0 +1,17 @@
+{"time":"2024-12-06T14:41:43.8693387+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-06T14:41:43.8693387+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241206_144143-20gaxrfp\\logs\\debug-core.log"}
+{"time":"2024-12-06T14:41:43.9928643+05:30","level":"INFO","msg":"created new stream","id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:43.9928643+05:30","level":"INFO","msg":"stream: started","id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:43.9928643+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:43.9928643+05:30","level":"INFO","msg":"sender: started","stream_id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:43.9928643+05:30","level":"INFO","msg":"handler: started","stream_id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:44.4535602+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T14:41:44.5161581+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T14:41:44.5161581+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T14:41:45.5307012+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.2777142},{"desc":"updating run config","runtime_seconds":0.2761771}],"total_operations":2}}
+{"time":"2024-12-06T14:41:46.4165967+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T14:41:47.8394333+05:30","level":"INFO","msg":"stream: closing","id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:47.8394333+05:30","level":"INFO","msg":"handler: closed","stream_id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:47.8394333+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:47.8394333+05:30","level":"INFO","msg":"sender: closed","stream_id":"20gaxrfp"}
+{"time":"2024-12-06T14:41:47.8394333+05:30","level":"INFO","msg":"stream: closed","id":"20gaxrfp"}

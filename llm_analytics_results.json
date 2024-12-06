@@ -1,0 +1,2513 @@
+{
+  "sentiments": [
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP002",
+      "sentiment": "Negative",
+      "confidence": 0.8979828357696533
+    },
+    {
+      "text": "EMP004",
+      "sentiment": "Negative",
+      "confidence": 0.891406238079071
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP005",
+      "sentiment": "Negative",
+      "confidence": 0.905807375907898
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP008",
+      "sentiment": "Negative",
+      "confidence": 0.8950451016426086
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP018",
+      "sentiment": "Negative",
+      "confidence": 0.765386164188385
+    },
+    {
+      "text": "EMP019",
+      "sentiment": "Negative",
+      "confidence": 0.8462206125259399
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP020",
+      "sentiment": "Negative",
+      "confidence": 0.750686526298523
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP014",
+      "sentiment": "Negative",
+      "confidence": 0.7444044351577759
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP007",
+      "sentiment": "Negative",
+      "confidence": 0.9119256734848022
+    },
+    {
+      "text": "EMP003",
+      "sentiment": "Negative",
+      "confidence": 0.8992906808853149
+    },
+    {
+      "text": "EMP013",
+      "sentiment": "Negative",
+      "confidence": 0.7538500428199768
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    },
+    {
+      "text": "EMP001",
+      "sentiment": "Negative",
+      "confidence": 0.8784790635108948
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP010",
+      "sentiment": "Negative",
+      "confidence": 0.6577983498573303
+    },
+    {
+      "text": "EMP012",
+      "sentiment": "Negative",
+      "confidence": 0.7200665473937988
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP009",
+      "sentiment": "Negative",
+      "confidence": 0.9268966913223267
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP016",
+      "sentiment": "Negative",
+      "confidence": 0.7368144989013672
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP011",
+      "sentiment": "Negative",
+      "confidence": 0.6013758778572083
+    },
+    {
+      "text": "EMP006",
+      "sentiment": "Negative",
+      "confidence": 0.9101988077163696
+    },
+    {
+      "text": "EMP017",
+      "sentiment": "Negative",
+      "confidence": 0.7314441204071045
+    },
+    {
+      "text": "EMP015",
+      "sentiment": "Negative",
+      "confidence": 0.7094240784645081
+    }
+  ],
+  "insights": {
+    "total_entries": 500,
+    "positive_sentiment_ratio": 0.0,
+    "avg_sentiment_confidence": 0.8116219960451126,
+    "sentiment_distribution": {
+      "positive": 0,
+      "negative": 500
+    }
+  }
+}

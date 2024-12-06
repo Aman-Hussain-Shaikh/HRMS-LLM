@@ -1,0 +1,17 @@
+{"time":"2024-12-06T13:10:57.3003991+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-06T13:10:57.3003991+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241206_131057-03pfn1lv\\logs\\debug-core.log"}
+{"time":"2024-12-06T13:10:57.422617+05:30","level":"INFO","msg":"created new stream","id":"03pfn1lv"}
+{"time":"2024-12-06T13:10:57.422617+05:30","level":"INFO","msg":"stream: started","id":"03pfn1lv"}
+{"time":"2024-12-06T13:10:57.422617+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"03pfn1lv"}
+{"time":"2024-12-06T13:10:57.422617+05:30","level":"INFO","msg":"sender: started","stream_id":"03pfn1lv"}
+{"time":"2024-12-06T13:10:57.422617+05:30","level":"INFO","msg":"handler: started","stream_id":"03pfn1lv"}
+{"time":"2024-12-06T13:10:57.9222315+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T13:10:59.2606018+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T13:10:59.2611164+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T13:11:00.2629925+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact hrms-dataset","runtime_seconds":1.6400931,"subtasks":[{"desc":"productivity","runtime_seconds":0.0690866,"progress":"29.5KB/29.5KB"},{"desc":"time_tracking","runtime_seconds":0.0690866,"progress":"47.4KB/47.4KB"},{"desc":"web_app","runtime_seconds":0.0690866,"progress":"5.6KB/5.6KB"},{"desc":"active_user","runtime_seconds":0.0690866,"progress":"57.0KB/57.0KB"},{"desc":"attendance","runtime_seconds":0.0690866,"progress":"32.0KB/49.8KB"},{"desc":"cursor","runtime_seconds":0.0690866,"progress":"30.7KB/30.7KB"},{"desc":"keystroke","runtime_seconds":0.0690866,"progress":"16.0KB/23.9KB"},{"desc":"printing","runtime_seconds":0.0690866}]},{"desc":"uploading artifact run-03pfn1lv-top_productive_activities","runtime_seconds":1.3992224},{"desc":"uploading artifact run-03pfn1lv-dataset_overview","runtime_seconds":1.0054405},{"desc":"uploading output.log","runtime_seconds":0.0926663},{"desc":"uploading config.yaml","runtime_seconds":0.0926663,"progress":"1.5KB/1.5KB"}],"total_operations":5}}
+{"time":"2024-12-06T13:11:03.7705295+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T13:11:05.1989943+05:30","level":"INFO","msg":"stream: closing","id":"03pfn1lv"}
+{"time":"2024-12-06T13:11:05.1989943+05:30","level":"INFO","msg":"handler: closed","stream_id":"03pfn1lv"}
+{"time":"2024-12-06T13:11:05.1989943+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"03pfn1lv"}
+{"time":"2024-12-06T13:11:05.1989943+05:30","level":"INFO","msg":"sender: closed","stream_id":"03pfn1lv"}
+{"time":"2024-12-06T13:11:05.1989943+05:30","level":"INFO","msg":"stream: closed","id":"03pfn1lv"}

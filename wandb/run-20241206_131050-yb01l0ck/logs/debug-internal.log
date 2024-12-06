@@ -1,0 +1,17 @@
+{"time":"2024-12-06T13:10:50.6772494+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-06T13:10:50.6772494+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241206_131050-yb01l0ck\\logs\\debug-core.log"}
+{"time":"2024-12-06T13:10:50.7982693+05:30","level":"INFO","msg":"created new stream","id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:50.7982693+05:30","level":"INFO","msg":"stream: started","id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:50.7982693+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:50.7982693+05:30","level":"INFO","msg":"sender: started","stream_id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:50.7982693+05:30","level":"INFO","msg":"handler: started","stream_id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:51.3661265+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T13:10:51.4260076+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T13:10:51.4260076+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T13:10:52.4338921+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.2501939},{"desc":"updating run config","runtime_seconds":0.2486556}],"total_operations":2}}
+{"time":"2024-12-06T13:10:53.295801+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T13:10:54.7116975+05:30","level":"INFO","msg":"stream: closing","id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:54.7116975+05:30","level":"INFO","msg":"handler: closed","stream_id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:54.7116975+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:54.7116975+05:30","level":"INFO","msg":"sender: closed","stream_id":"yb01l0ck"}
+{"time":"2024-12-06T13:10:54.7116975+05:30","level":"INFO","msg":"stream: closed","id":"yb01l0ck"}

@@ -1,0 +1,17 @@
+{"time":"2024-12-06T14:51:38.5394729+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-06T14:51:38.5394729+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241206_145138-g5gvfcpc\\logs\\debug-core.log"}
+{"time":"2024-12-06T14:51:38.6597462+05:30","level":"INFO","msg":"created new stream","id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:38.6597462+05:30","level":"INFO","msg":"stream: started","id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:38.6597462+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:38.6597462+05:30","level":"INFO","msg":"handler: started","stream_id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:38.6597462+05:30","level":"INFO","msg":"sender: started","stream_id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:39.1695+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T14:51:40.4580961+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T14:51:40.4580961+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T14:51:41.4671126+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact hrms-dataset","runtime_seconds":1.5116186,"subtasks":[{"desc":"cursor","runtime_seconds":0.0979338,"progress":"30.7KB/30.7KB"},{"desc":"productivity","runtime_seconds":0.0979338,"progress":"29.6KB/29.6KB"},{"desc":"time_tracking","runtime_seconds":0.0974301,"progress":"47.5KB/47.5KB"}]},{"desc":"uploading artifact run-g5gvfcpc-top_productive_activities","runtime_seconds":1.3979401,"subtasks":[{"desc":"top_productive_activities.table.json","runtime_seconds":0.0724235,"progress":"524B/524B"}]},{"desc":"uploading artifact run-g5gvfcpc-dataset_overview","runtime_seconds":1.0126798},{"desc":"uploading config.yaml","runtime_seconds":0.3109489,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.3109489}],"total_operations":5}}
+{"time":"2024-12-06T14:51:44.8616094+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T14:51:46.3276225+05:30","level":"INFO","msg":"stream: closing","id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:46.3276225+05:30","level":"INFO","msg":"handler: closed","stream_id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:46.3276225+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:46.3276225+05:30","level":"INFO","msg":"sender: closed","stream_id":"g5gvfcpc"}
+{"time":"2024-12-06T14:51:46.3278292+05:30","level":"INFO","msg":"stream: closed","id":"g5gvfcpc"}

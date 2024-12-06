@@ -1,0 +1,17 @@
+{"time":"2024-12-06T14:51:46.3356847+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-06T14:51:46.3356847+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241206_145146-qnmliwel\\logs\\debug-core.log"}
+{"time":"2024-12-06T14:51:46.4571687+05:30","level":"INFO","msg":"created new stream","id":"qnmliwel"}
+{"time":"2024-12-06T14:51:46.4571687+05:30","level":"INFO","msg":"stream: started","id":"qnmliwel"}
+{"time":"2024-12-06T14:51:46.4571687+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qnmliwel"}
+{"time":"2024-12-06T14:51:46.4571687+05:30","level":"INFO","msg":"sender: started","stream_id":"qnmliwel"}
+{"time":"2024-12-06T14:51:46.4571687+05:30","level":"INFO","msg":"handler: started","stream_id":"qnmliwel"}
+{"time":"2024-12-06T14:51:46.9295911+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T14:51:46.990833+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T14:51:46.990833+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T14:51:47.9982638+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.7037363,"progress":"1.2KB/1.2KB"},{"desc":"updating run config","runtime_seconds":0.0938299}],"total_operations":2}}
+{"time":"2024-12-06T14:51:49.3330364+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T14:51:50.7720983+05:30","level":"INFO","msg":"stream: closing","id":"qnmliwel"}
+{"time":"2024-12-06T14:51:50.7720983+05:30","level":"INFO","msg":"handler: closed","stream_id":"qnmliwel"}
+{"time":"2024-12-06T14:51:50.7720983+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qnmliwel"}
+{"time":"2024-12-06T14:51:50.7720983+05:30","level":"INFO","msg":"sender: closed","stream_id":"qnmliwel"}
+{"time":"2024-12-06T14:51:50.7720983+05:30","level":"INFO","msg":"stream: closed","id":"qnmliwel"}

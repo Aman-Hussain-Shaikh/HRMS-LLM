@@ -1,0 +1,17 @@
+{
+  "processed_files": {
+    "cursor": "f55a471cfc713d2b98205df7b442f994",
+    "keystroke": "c7d3423b8a3b169426a9384f7c37b3b0",
+    "web_app": "fa30c8dccecba27d61db62c763833f35",
+    "printing": "ec3790e4c89678e06efe7c76ef9bde78",
+    "time_tracking": "8706ca6304871bd87f5c0cdc3b0ec9c4",
+    "attendance": "b19d63e4be30116cdffddc47dccc1a23",
+    "productivity": "dce6e64f1d17a64150d9e2c3fdbbac02",
+    "active_user": "8d3ced23bd1344ee9a5bba47d58690e5"
+  },
+  "comprehensive_analysis": {
+    "files_analyzed": [],
+    "column_insights": {},
+    "overall_insights": {}
+  }
+}

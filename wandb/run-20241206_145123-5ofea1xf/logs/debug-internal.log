@@ -1,0 +1,17 @@
+{"time":"2024-12-06T14:51:23.1263949+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-06T14:51:23.1263949+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241206_145123-5ofea1xf\\logs\\debug-core.log"}
+{"time":"2024-12-06T14:51:23.2435159+05:30","level":"INFO","msg":"created new stream","id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:23.2436377+05:30","level":"INFO","msg":"stream: started","id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:23.2436377+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:23.2436377+05:30","level":"INFO","msg":"sender: started","stream_id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:23.2436377+05:30","level":"INFO","msg":"handler: started","stream_id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:23.8225318+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T14:51:25.8297579+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T14:51:25.8302613+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T14:51:26.8447673+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact hrms-dataset","runtime_seconds":2.3108352,"subtasks":[{"desc":"cursor","runtime_seconds":0.659435,"progress":"30.7KB/30.7KB"},{"desc":"productivity","runtime_seconds":0.659435,"progress":"29.5KB/29.5KB"},{"desc":"time_tracking","runtime_seconds":0.659435,"progress":"47.6KB/47.6KB"}]},{"desc":"uploading artifact run-5ofea1xf-top_productive_activities","runtime_seconds":2.0909031,"subtasks":[{"desc":"top_productive_activities.table.json","runtime_seconds":0.6522212,"progress":"524B/524B"}]},{"desc":"uploading artifact run-5ofea1xf-dataset_overview","runtime_seconds":1.0185603},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6500326,"progress":"1.7KB/1.7KB"},{"desc":"uploading config.yaml","runtime_seconds":0.2799566,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.2799566}],"total_operations":6}}
+{"time":"2024-12-06T14:51:29.8159051+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T14:51:31.2242373+05:30","level":"INFO","msg":"stream: closing","id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:31.2242373+05:30","level":"INFO","msg":"handler: closed","stream_id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:31.2242373+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:31.2242373+05:30","level":"INFO","msg":"sender: closed","stream_id":"5ofea1xf"}
+{"time":"2024-12-06T14:51:31.2245165+05:30","level":"INFO","msg":"stream: closed","id":"5ofea1xf"}

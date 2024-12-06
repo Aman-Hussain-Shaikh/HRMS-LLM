@@ -1,0 +1,17 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2024-12-05T18:22:13.505139Z",
+  "program": "C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\llm_code_wandb.py",
+  "codePath": "llm_code_wandb.py",
+  "git": {
+    "remote": "git@github.com:Aman-Hussain-Shaikh/HRMS-LLM.git",
+    "commit": "bccd6119d5266c1c41af2c48b3e3a03b0c751e10"
+  },
+  "email": "theamazingmarketing@gmail.com",
+  "root": "C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM",
+  "host": "Aman",
+  "username": "aman3",
+  "executable": "C:\\Users\\aman3\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "codePathLocal": "llm_code_wandb.py"
+}

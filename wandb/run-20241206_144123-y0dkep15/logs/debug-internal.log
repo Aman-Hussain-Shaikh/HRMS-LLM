@@ -1,0 +1,17 @@
+{"time":"2024-12-06T14:41:23.4142887+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-06T14:41:23.4142887+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241206_144123-y0dkep15\\logs\\debug-core.log"}
+{"time":"2024-12-06T14:41:23.5387673+05:30","level":"INFO","msg":"created new stream","id":"y0dkep15"}
+{"time":"2024-12-06T14:41:23.5392824+05:30","level":"INFO","msg":"stream: started","id":"y0dkep15"}
+{"time":"2024-12-06T14:41:23.5392824+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y0dkep15"}
+{"time":"2024-12-06T14:41:23.5392824+05:30","level":"INFO","msg":"sender: started","stream_id":"y0dkep15"}
+{"time":"2024-12-06T14:41:23.5392824+05:30","level":"INFO","msg":"handler: started","stream_id":"y0dkep15"}
+{"time":"2024-12-06T14:41:24.06535+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-06T14:41:26.1648551+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-06T14:41:26.1648551+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-06T14:41:27.1754762+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact hrms-dataset","runtime_seconds":2.2931296,"subtasks":[{"desc":"cursor","runtime_seconds":0.8233288,"progress":"30.7KB/30.7KB"},{"desc":"productivity","runtime_seconds":0.8233288,"progress":"29.5KB/29.5KB"},{"desc":"time_tracking","runtime_seconds":0.8233288,"progress":"47.6KB/47.6KB"}]},{"desc":"uploading artifact run-y0dkep15-top_productive_activities","runtime_seconds":2.1339876},{"desc":"uploading artifact run-y0dkep15-dataset_overview","runtime_seconds":1.0142748},{"desc":"uploading config.yaml","runtime_seconds":0.3220124,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.3220124}],"total_operations":5}}
+{"time":"2024-12-06T14:41:29.8074585+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-06T14:41:31.2288909+05:30","level":"INFO","msg":"stream: closing","id":"y0dkep15"}
+{"time":"2024-12-06T14:41:31.2288909+05:30","level":"INFO","msg":"handler: closed","stream_id":"y0dkep15"}
+{"time":"2024-12-06T14:41:31.2288909+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y0dkep15"}
+{"time":"2024-12-06T14:41:31.2288909+05:30","level":"INFO","msg":"sender: closed","stream_id":"y0dkep15"}
+{"time":"2024-12-06T14:41:31.2288909+05:30","level":"INFO","msg":"stream: closed","id":"y0dkep15"}

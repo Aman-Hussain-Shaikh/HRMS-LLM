@@ -1,0 +1,101 @@
+timestamp,app,website,duration
+2024-11-30 16:41:07.198855,Code Editor,google.com,1088
+2024-11-30 16:56:07.198855,Email Client,google.com,3488
+2024-11-30 17:11:07.198855,Email Client,stackoverflow.com,2981
+2024-11-30 17:26:07.198855,Email Client,example.com,1271
+2024-11-30 17:41:07.198855,Email Client,google.com,3452
+2024-11-30 17:56:07.198855,Video Player,google.com,777
+2024-11-30 18:11:07.198855,Video Player,stackoverflow.com,2060
+2024-11-30 18:26:07.198855,Code Editor,google.com,2709
+2024-11-30 18:41:07.198855,Word Processor,google.com,1342
+2024-11-30 18:56:07.198855,Code Editor,github.com,2267
+2024-11-30 19:11:07.198855,Video Player,stackoverflow.com,3209
+2024-11-30 19:26:07.198855,Code Editor,google.com,353
+2024-11-30 19:41:07.198855,Browser,example.com,1712
+2024-11-30 19:56:07.198855,Email Client,example.com,2311
+2024-11-30 20:11:07.198855,Word Processor,stackoverflow.com,1179
+2024-11-30 20:26:07.198855,Video Player,google.com,294
+2024-11-30 20:41:07.198855,Email Client,example.com,501
+2024-11-30 20:56:07.198855,Code Editor,github.com,1514
+2024-11-30 21:11:07.198855,Browser,stackoverflow.com,1555
+2024-11-30 21:26:07.198855,Browser,youtube.com,2354
+2024-11-30 21:41:07.198855,Video Player,google.com,166
+2024-11-30 21:56:07.198855,Video Player,google.com,77
+2024-11-30 22:11:07.198855,Word Processor,example.com,1054
+2024-11-30 22:26:07.198855,Word Processor,,2400
+2024-11-30 22:41:07.198855,Code Editor,google.com,960
+2024-11-30 22:56:07.198855,Word Processor,youtube.com,1514
+2024-11-30 23:11:07.198855,Email Client,,1840
+2024-11-30 23:26:07.198855,Email Client,stackoverflow.com,2875
+2024-11-30 23:41:07.198855,Video Player,youtube.com,3268
+2024-11-30 23:56:07.198855,Word Processor,stackoverflow.com,3303
+2024-12-01 00:11:07.198855,Video Player,,1013
+2024-12-01 00:26:07.198855,Browser,stackoverflow.com,1666
+2024-12-01 00:41:07.198855,Video Player,google.com,633
+2024-12-01 00:56:07.198855,Code Editor,example.com,127
+2024-12-01 01:11:07.198855,Code Editor,example.com,2005
+2024-12-01 01:26:07.198855,Video Player,example.com,397
+2024-12-01 01:41:07.198855,Word Processor,youtube.com,3015
+2024-12-01 01:56:07.198855,Word Processor,google.com,1931
+2024-12-01 02:11:07.198855,Word Processor,google.com,3031
+2024-12-01 02:26:07.198855,Code Editor,google.com,1060
+2024-12-01 02:41:07.198855,Browser,example.com,436
+2024-12-01 02:56:07.198855,Email Client,google.com,1189
+2024-12-01 03:11:07.198855,Code Editor,github.com,1572
+2024-12-01 03:26:07.198855,Email Client,example.com,1533
+2024-12-01 03:41:07.198855,Code Editor,stackoverflow.com,1108
+2024-12-01 03:56:07.198855,Email Client,youtube.com,2682
+2024-12-01 04:11:07.198855,Word Processor,youtube.com,2735
+2024-12-01 04:26:07.198855,Word Processor,stackoverflow.com,3304
+2024-12-01 04:41:07.198855,Code Editor,youtube.com,961
+2024-12-01 04:56:07.198855,Word Processor,youtube.com,1718
+2024-12-01 05:11:07.198855,Video Player,youtube.com,2931
+2024-12-01 05:26:07.198855,Word Processor,stackoverflow.com,3320
+2024-12-01 05:41:07.198855,Video Player,github.com,1331
+2024-12-01 05:56:07.198855,Video Player,google.com,1290
+2024-12-01 06:11:07.198855,Email Client,example.com,491
+2024-12-01 06:26:07.198855,Video Player,,3110
+2024-12-01 06:41:07.198855,Code Editor,youtube.com,2573
+2024-12-01 06:56:07.198855,Video Player,example.com,3218
+2024-12-01 07:11:07.198855,Word Processor,example.com,1078
+2024-12-01 07:26:07.198855,Email Client,google.com,3564
+2024-12-01 07:41:07.198855,Video Player,youtube.com,3435
+2024-12-01 07:56:07.198855,Browser,example.com,731
+2024-12-01 08:11:07.198855,Browser,stackoverflow.com,2742
+2024-12-01 08:26:07.198855,Email Client,,1809
+2024-12-01 08:41:07.198855,Code Editor,github.com,1864
+2024-12-01 08:56:07.198855,Browser,github.com,2159
+2024-12-01 09:11:07.198855,Word Processor,youtube.com,1792
+2024-12-01 09:26:07.198855,Code Editor,,3346
+2024-12-01 09:41:07.198855,Word Processor,google.com,336
+2024-12-01 09:56:07.198855,Video Player,stackoverflow.com,3009
+2024-12-01 10:11:07.198855,Video Player,youtube.com,2937
+2024-12-01 10:26:07.198855,Code Editor,,2992
+2024-12-01 10:41:07.198855,Word Processor,stackoverflow.com,1359
+2024-12-01 10:56:07.198855,Email Client,youtube.com,1577
+2024-12-01 11:11:07.198855,Email Client,stackoverflow.com,1474
+2024-12-01 11:26:07.198855,Email Client,example.com,1446
+2024-12-01 11:41:07.198855,Word Processor,github.com,3347
+2024-12-01 11:56:07.198855,Email Client,google.com,3387
+2024-12-01 12:11:07.198855,Browser,,2430
+2024-12-01 12:26:07.198855,Video Player,github.com,2890
+2024-12-01 12:41:07.198855,Word Processor,stackoverflow.com,2027
+2024-12-01 12:56:07.198855,Word Processor,google.com,145
+2024-12-01 13:11:07.198855,Video Player,youtube.com,1973
+2024-12-01 13:26:07.198855,Video Player,github.com,1133
+2024-12-01 13:41:07.198855,Email Client,stackoverflow.com,2889
+2024-12-01 13:56:07.198855,Code Editor,stackoverflow.com,322
+2024-12-01 14:11:07.198855,Video Player,stackoverflow.com,3127
+2024-12-01 14:26:07.198855,Code Editor,stackoverflow.com,2535
+2024-12-01 14:41:07.198855,Email Client,stackoverflow.com,719
+2024-12-01 14:56:07.198855,Email Client,google.com,113
+2024-12-01 15:11:07.198855,Video Player,google.com,1421
+2024-12-01 15:26:07.198855,Video Player,youtube.com,1553
+2024-12-01 15:41:07.198855,Word Processor,,1459
+2024-12-01 15:56:07.198855,Video Player,example.com,3206
+2024-12-01 16:11:07.198855,Browser,,2599
+2024-12-01 16:26:07.198855,Browser,youtube.com,1033
+2024-12-01 16:41:07.198855,Video Player,google.com,1369
+2024-12-01 16:56:07.198855,Video Player,stackoverflow.com,1145
+2024-12-01 17:11:07.198855,Video Player,stackoverflow.com,1121
+2024-12-01 17:26:07.198855,Video Player,youtube.com,3580

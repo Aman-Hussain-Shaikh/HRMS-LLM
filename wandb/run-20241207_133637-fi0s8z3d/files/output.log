@@ -1,0 +1,1 @@
+ERROR:root:Workflow failed: You must call wandb.init() before wandb.log_artifact()

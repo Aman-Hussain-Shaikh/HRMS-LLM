@@ -182,6 +182,109 @@ class WandbHRMSAnalyticsGenerator:
         finally:
             wandb.finish()
 
+    def visualize_comprehensive_insights(self, insights_file='comprehensive_insights.json'):
+        """
+        Deeply analyze and visualize comprehensive insights from JSON file using Weights & Biases
+        
+        :param insights_file: Path to the comprehensive insights JSON file
+        """
+        # Ensure wandb is initialized
+        if not wandb.run:
+            wandb.init(project=self.project_name, name="comprehensive-insights-visualization")
+        
+        try:
+            # Load comprehensive insights from JSON file
+            with open(insights_file, 'r') as f:
+                comprehensive_insights = json.load(f)
+            
+            # 1. Productivity Insights Visualization
+            productivity_insights = comprehensive_insights.get('Productivity Insights', {})
+            if productivity_insights.get('Peak Productive Hours'):
+                peak_hours_df = pd.DataFrame.from_dict(
+                    productivity_insights['Peak Productive Hours'], 
+                    orient='index', 
+                    columns=['Productivity Score']
+                ).reset_index()
+                peak_hours_df.columns = ['Hour', 'Productivity Score']
+                
+                plt.figure(figsize=(10, 5))
+                plt.title('Peak Productivity Hours')
+                plt.bar(peak_hours_df['Hour'], peak_hours_df['Productivity Score'])
+                plt.xlabel('Hour of Day')
+                plt.ylabel('Productivity Score')
+                wandb.log({"Peak Productivity Hours": wandb.Image(plt)})
+                plt.close()
+            
+            # 2. Time Tracking Insights
+            time_tracking = comprehensive_insights.get('Time Tracking', {})
+            if time_tracking.get('Activity Time Breakdown'):
+                activity_time_df = pd.DataFrame.from_dict(
+                    time_tracking['Activity Time Breakdown'], 
+                    orient='index', 
+                    columns=['Total Time']
+                ).reset_index()
+                activity_time_df.columns = ['Activity', 'Total Time']
+                
+                plt.figure(figsize=(10, 5))
+                plt.title('Activity Time Breakdown')
+                plt.pie(activity_time_df['Total Time'], labels=activity_time_df['Activity'], autopct='%1.1f%%')
+                wandb.log({"Activity Time Breakdown": wandb.Image(plt)})
+                plt.close()
+            
+            # 3. Cursor Activity Analysis
+            cursor_activity = comprehensive_insights.get('Cursor Activity', {})
+            if cursor_activity.get('Advanced Cursor Metrics'):
+                cursor_metrics = cursor_activity['Advanced Cursor Metrics']
+                wandb.log({
+                    "Max Cursor Speed": cursor_metrics.get('Max Cursor Speed', 0),
+                    "Average Clicks per Minute": cursor_metrics.get('Click Pattern Analysis', {}).get('Average Clicks per Minute', 0)
+                })
+            
+            # 4. Device Usage Analysis
+            active_user_insights = comprehensive_insights.get('Active User Insights', {})
+            if active_user_insights.get('Device Usage'):
+                device_usage = active_user_insights['Device Usage']
+                device_df = pd.DataFrame.from_dict(device_usage, orient='index', columns=['Usage'])
+                device_df = device_df.reset_index()
+                device_df.columns = ['Device Combination', 'Usage']
+                
+                plt.figure(figsize=(12, 6))
+                plt.title('Device Usage Distribution')
+                plt.bar(device_df['Device Combination'], device_df['Usage'])
+                plt.xlabel('Device Combination')
+                plt.ylabel('Usage')
+                plt.xticks(rotation=45, ha='right')
+                wandb.log({"Device Usage Distribution": wandb.Image(plt)})
+                plt.close()
+            
+            # 5. Log Key Metadata
+            analysis_metadata = comprehensive_insights.get('Analysis Metadata', {})
+            wandb.log({
+                "Analysis Timestamp": analysis_metadata.get('Timestamp', 'N/A'),
+                "Total Data Sources": analysis_metadata.get('Total Data Sources', 0),
+                "Files Analyzed": len(analysis_metadata.get('Files Analyzed', []))
+            })
+            
+            # 6. Create a summary table of key insights
+            summary_table = wandb.Table(
+                columns=["Metric Category", "Key Insights"],
+                data=[
+                    ["Productivity", f"Peak Hours: {list(productivity_insights.get('Peak Productive Hours', {}).keys())}"],
+                    ["Time Tracking", f"Most Time-Consuming: {time_tracking.get('Most Time-Consuming Activity', 'N/A')}"],
+                    ["Cursor Activity", f"Max Speed: {cursor_activity.get('Advanced Cursor Metrics', {}).get('Max Cursor Speed', 'N/A')}"],
+                    ["Active Users", f"Total Sessions: {active_user_insights.get('Total Active Sessions', 'N/A')}"]
+                ]
+            )
+            wandb.log({"Comprehensive Insights Summary": summary_table})
+            
+            print("Comprehensive insights visualization completed and logged to Weights & Biases.")
+        
+        except Exception as e:
+            logging.error(f"Error in visualizing comprehensive insights: {e}")
+            wandb.log({"visualization_error": str(e)})
+        finally:
+            wandb.finish()
+
     # WandbHRMSAnalyticsGenerator.visualize_insights_with_wandb = visualize_insights_with_wandb
 
     def load_csv_files(self):
@@ -1300,6 +1403,9 @@ def main():
     generator = WandbHRMSAnalyticsGenerator(
         project_name='hrms-advanced-analytics'
     )
+
+    generator.visualize_insights_with_wandb('./comprehensive_insights.json')
+    generator.visualize_comprehensive_insights('./comprehensive_insights.json')
 
     generator.main_workflow()
 

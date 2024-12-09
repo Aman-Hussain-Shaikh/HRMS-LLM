@@ -1,0 +1,17 @@
+{"time":"2024-12-07T13:36:23.9355943+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-07T13:36:23.9355943+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241207_133623-ju83fczv\\logs\\debug-core.log"}
+{"time":"2024-12-07T13:36:24.062717+05:30","level":"INFO","msg":"created new stream","id":"ju83fczv"}
+{"time":"2024-12-07T13:36:24.063458+05:30","level":"INFO","msg":"stream: started","id":"ju83fczv"}
+{"time":"2024-12-07T13:36:24.063458+05:30","level":"INFO","msg":"handler: started","stream_id":"ju83fczv"}
+{"time":"2024-12-07T13:36:24.063458+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ju83fczv"}
+{"time":"2024-12-07T13:36:24.063458+05:30","level":"INFO","msg":"sender: started","stream_id":"ju83fczv"}
+{"time":"2024-12-07T13:36:24.5815815+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-07T13:36:26.9690435+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-07T13:36:26.969549+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-07T13:36:27.9712197+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ju83fczv-AnalysisMetadataTable","runtime_seconds":1.0080427},{"desc":"uploading config.yaml","runtime_seconds":0.3089591,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.3089591,"progress":"65B/65B"}],"total_operations":3}}
+{"time":"2024-12-07T13:36:29.9027168+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-07T13:36:31.3189066+05:30","level":"INFO","msg":"stream: closing","id":"ju83fczv"}
+{"time":"2024-12-07T13:36:31.3189066+05:30","level":"INFO","msg":"handler: closed","stream_id":"ju83fczv"}
+{"time":"2024-12-07T13:36:31.3189066+05:30","level":"INFO","msg":"sender: closed","stream_id":"ju83fczv"}
+{"time":"2024-12-07T13:36:31.3189066+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ju83fczv"}
+{"time":"2024-12-07T13:36:31.3189066+05:30","level":"INFO","msg":"stream: closed","id":"ju83fczv"}

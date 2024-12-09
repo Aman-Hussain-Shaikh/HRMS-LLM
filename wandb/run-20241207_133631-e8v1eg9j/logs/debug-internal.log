@@ -1,0 +1,17 @@
+{"time":"2024-12-07T13:36:31.3272078+05:30","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-07T13:36:31.3272078+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\aman3\\Documents\\Programming\\Work\\Qdesk\\LLM-Backup\\HRMS-LLM\\wandb\\run-20241207_133631-e8v1eg9j\\logs\\debug-core.log"}
+{"time":"2024-12-07T13:36:31.457068+05:30","level":"INFO","msg":"created new stream","id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:31.457068+05:30","level":"INFO","msg":"stream: started","id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:31.457068+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:31.457068+05:30","level":"INFO","msg":"handler: started","stream_id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:31.457068+05:30","level":"INFO","msg":"sender: started","stream_id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:31.9852595+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-07T13:36:33.1217114+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-07T13:36:33.1222171+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-07T13:36:34.1225085+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-e8v1eg9j-ComprehensiveInsightsSummary","runtime_seconds":1.0054404},{"desc":"uploading config.yaml","runtime_seconds":0.2781032,"progress":"713B/713B"},{"desc":"uploading output.log","runtime_seconds":0.2781032,"progress":"79B/79B"}],"total_operations":3}}
+{"time":"2024-12-07T13:36:36.1520747+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-07T13:36:37.5681193+05:30","level":"INFO","msg":"stream: closing","id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:37.5681193+05:30","level":"INFO","msg":"handler: closed","stream_id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:37.5681193+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:37.5681193+05:30","level":"INFO","msg":"sender: closed","stream_id":"e8v1eg9j"}
+{"time":"2024-12-07T13:36:37.5681193+05:30","level":"INFO","msg":"stream: closed","id":"e8v1eg9j"}
